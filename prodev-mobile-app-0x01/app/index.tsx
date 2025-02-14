@@ -19,7 +19,7 @@ container:{
 largeText:{
   fontSize : 30,
   color: "#f44336",
-  margineBottom: 5,
+  marginBottom: 5,
   fontWeight: "700",
   fontVariant: ["small-caps"]
 },
